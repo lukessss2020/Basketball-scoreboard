@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Bakbak One', cursive;
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+h3 {
+    font-family: 'Verdana';
+    color: whitesmoke;
+    font-size: 40px;
+    line-height: 36px;
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 90px;
+    margin: 5px 10px 40px;
+    background: black;
+    color: #F94F6D;
+}
+
+button {
+    margin-bottom: 40px;
+    color: #F94F6D;
+    border: 1px solid #9AABD8;
+    border-radius: 4px;
+    background: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.buttonReset {
+    margin: auto 5px;
+    padding: 5px;
+}
+
+/* Challenge section */
+.leader {
+    color: #FFFF65;
+}
